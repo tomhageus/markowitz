@@ -82,6 +82,8 @@ int main(){
 
   int outint = multiplyBy5(9);
   cout  << outint << endl;
+<<<<<<< HEAD
+=======
   // void get(char s[], int n){
   //
   // }
@@ -104,5 +106,6 @@ int main(){
   // put("genomsnitlig längd: ");
   // put("sum\n", 2, n); new_line();
 >>>>>>> dccf15c3487baec2f71bb6e34f7337cf27981ba1
+>>>>>>> 370e5f1ce226f531f79fca110591e4f2d8133bb1
 
 }
