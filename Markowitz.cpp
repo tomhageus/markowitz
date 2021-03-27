@@ -2,11 +2,12 @@
 
 using namespace std;
 
-
-
 int main() {
 
-cout << "Tja Oscar, detta är pushat från min Windows dator" << endl;
+int k;
+cout << "Enter a number, and i will output twice that number: ";
+cin >> k;
+cout << 2*k; 
 return 0;
 }
 
